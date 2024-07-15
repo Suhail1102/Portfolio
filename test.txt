@@ -1,0 +1,13 @@
+    .navbar {
+        display: inline-grid;
+        place-content: baseline;
+        overflow: unset;
+        position: absolute;
+        top: 24px;
+        right: 4px;
+        margin: 6px 0px;
+        height: 100vh;
+        text-align: center;
+        grid-gap: 43px;
+        background: rgba(0, 0, 5, 0.6), red;
+    }
