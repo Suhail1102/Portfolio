@@ -445,7 +445,7 @@ form input, form textarea{
     }
 
     .home{
-        background: url('/face-1283106_1280.jpg') ;
+        background: url('images/face-1283106_1280.jpg') ;
         background-repeat: no-repeat;
         background-size: contain;
         background-position: center;
